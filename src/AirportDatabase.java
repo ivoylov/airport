@@ -39,7 +39,7 @@ class AirportDatabase {
             case "VKO":
                 return vnukovo;
             case "LED":
-                return pulkovo:
+                return pulkovo;
             case "SVX":
                 return koltsovo;
             case "VVO":
